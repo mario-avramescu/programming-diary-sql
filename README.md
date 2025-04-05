@@ -2,11 +2,6 @@
 
 A simple command-line diary application built with Python and SQLite. Users can write daily programming notes and view their entries.
 
-## 📁 Project Structure
-
-project/ │ ├── app.py # Main application file (CLI interface) ├── data/ │ ├── database.py # Handles database operations │ └── data.db # SQLite database (generated after first run)
-
-
 ## ⚙️ Requirements
 
 - Python 3.x (no external dependencies required)
